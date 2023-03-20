@@ -36,8 +36,9 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<a href="https://www.loom.com/share/55ebf74c4ff14132b094d16458c1df81">
+    <img style="max-width:300px;" src="null">
+  </a>
 
 GIF created with **your chosen GIF tool**
 
